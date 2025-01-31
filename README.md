@@ -1,4 +1,4 @@
-- 👋 Hi, my name is Husna
+👋 Hi, my name is Husna
 
 <!---
 HusnaSafiyyah/HusnaSafiyyah is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
